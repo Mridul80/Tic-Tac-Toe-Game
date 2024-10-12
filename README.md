@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Game
 **OVERVIEW**
-This is a simple tic tac toe game made using the basic concepts of python language.
+1. This is a simple tic tac toe game made using the basic concepts of python language.
 
 **FEATURES**
 1. 2 Players game
@@ -10,7 +10,7 @@ This is a simple tic tac toe game made using the basic concepts of python langua
 5. Game quit option
 
 **REQUIREMENTS**
-Python 3.x: You would require python installed on your device.
+1. Python 3.x: You would require python installed on your device.
 
 **IMPLEMENTATION**
 The game takes inputs from the players(1-9).
