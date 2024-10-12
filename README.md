@@ -13,7 +13,7 @@
 1. Python 3.x: You would require python installed on your device.
 
 **IMPLEMENTATION**
-The game takes inputs from the players(1-9).
-Player moves are validated for input type and availability.
-Win conditions are checked after each move.
-The game ends when a player wins or the board is full (tie).
+1. The game takes inputs from the players(1-9).
+2. Player moves are validated for input type and availability.
+3. Win conditions are checked after each move.
+4. The game ends when a player wins or the board is full (tie).
